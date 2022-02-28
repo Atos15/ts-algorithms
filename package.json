@@ -1,0 +1,25 @@
+{
+  "name": "ts-algorithms",
+  "version": "1.0.0",
+  "description": "A typescript implementation of various algorithms",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tsc --watch",
+    "start": "node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atos15/ts-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atos15/ts-algorithms/issues"
+  },
+  "homepage": "https://github.com/Atos15/ts-algorithms#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
